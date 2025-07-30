@@ -8,7 +8,7 @@ Built with **Python**, trained in **Jupyter Notebook**, and deployed as an inter
 
 ## 🚀 Demo
 
-🔗 [Launch the App](https://heart-ml-a9gqfohr4qcvhheiqfuqvx.streamlit.app/) _(replace with live link after deployment)_
+🔗 [Launch the App](https://heart-ml-a9gqfohr4qcvhheiqfuqvx.streamlit.app/) 
 
 ---
 
